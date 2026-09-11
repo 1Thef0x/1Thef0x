@@ -57,8 +57,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/1Thef0x/1Thef0x/output/snake.svg" alt="Snake animation" />
 </p>
-
-<!-- إذا لم تقم بعد بإعداد Snake animation workflow، اتبع الإرشادات من:
-     https://github.com/Platane/snk -->
-
-![Spassky vs Fischer](spassky-vs-fischer.gif)
